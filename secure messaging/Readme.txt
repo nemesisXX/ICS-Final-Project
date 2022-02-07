@@ -1,0 +1,1 @@
+The code can only be run on Python 3.7 or below. It doesn't support Python 3.8 because the  pyCrypto module doesn't support 3.8
